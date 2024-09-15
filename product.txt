@@ -1,4 +1,0 @@
-price: 429
-    priceDiscount: 369
-     rating: 4.8
-     reviewCount: 1273

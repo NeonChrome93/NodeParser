@@ -1,0 +1,4 @@
+price=639
+priceDiscount=334
+rating=5
+reviewCount=5

@@ -1,0 +1,4 @@
+price=299
+priceDiscount=199
+rating=4
+reviewCount=1744
